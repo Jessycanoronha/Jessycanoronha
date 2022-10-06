@@ -31,6 +31,6 @@ I'm a web developer from Brazil, who currently works at Sinch. I code mainly in 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
   
-  ![Snake animation](https://github.com/Jessycanoronha/Jessycanoronha/blob/output/github-contribution-grid-snake.svg)
- 
+<!--   ![Snake animation](https://github.com/Jessycanoronha/Jessycanoronha/blob/output/github-contribution-grid-snake.svg)
+  -->
 </div>
