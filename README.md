@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Jéssyca Noronha, a passionate web developer from Brazil. Currently, I'm weaving my web magic at **Sinch**, specializing in TypeScript and React. Exploring new frameworks and web technologies always excites me. Lifelong learning is my mantra!
+Hello! I'm Jéssyca Noronha, a passionate web developer from Brazil. Currently, I'm weaving my web magic coding around, specializing in TypeScript and React. Exploring new frameworks and web technologies always excites me. Lifelong learning is my mantra!
 
 ---
 
