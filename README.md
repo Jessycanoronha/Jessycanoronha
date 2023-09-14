@@ -62,5 +62,3 @@ Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/jessyc
 ⭐️ From [Jéssyca Noronha](https://github.com/Jessycanoronha)
 
 ---
-
-Remember to adapt as per your needs, replace project links, and other pertinent information. Hope you like it! 😊
