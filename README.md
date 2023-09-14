@@ -1,8 +1,6 @@
 #  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F74C98&width=435&lines=%F0%9F%91%A9%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB++J%C3%A9ssyca+Noronha+;I'm+a+Software+Developer)](https://git.io/typing-svg)
 
 
----
-
 ## 🚀 About Me
 
 Hello! I'm Jéssyca Noronha, a passionate web developer from Brazil. Currently, I'm weaving my web magic coding around, specializing in TypeScript and React. Exploring new frameworks and web technologies always excites me. Lifelong learning is my mantra!
@@ -49,7 +47,7 @@ Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/jessyc
 
 ---
 
-💼 [My Portfolio](#)
+💼 [My Portfolio](https://github.com/Jessycanoronha/J)
   <img align="right" alt="Jess-yoda" width="150" height="100" src="https://media.giphy.com/media/akbme2WYZCNLW/giphy.gif">
 
 ---
