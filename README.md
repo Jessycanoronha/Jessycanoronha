@@ -3,9 +3,11 @@
 
 ## 🚀 About Me
 
-Hello! I'm Jéssyca Noronha, a passionate web developer from Brazil. Currently, I'm weaving my web magic coding around, specializing in TypeScript and React. Exploring new frameworks and web technologies always excites me. Lifelong learning is my mantra!
+<div>Hello! I'm Jéssyca Noronha, a passionate web developer from Brazil. Currently, I'm weaving my web magic coding around, specializing in TypeScript and React. Exploring new frameworks and web technologies always excites me. Lifelong learning is my mantra!<div>
 
----
+  
+<div align="center"><a href="https://app.daily.dev/jssycanoronha"><img src="https://api.daily.dev/devcards/0a93187800ce4956858ca6625db5f211.png?r=2r8" width="400" alt="Jéssyca Noronha's Dev Card"/></a></div>
+
 
 ## 📈 GitHub Stats & Visualizations
 
