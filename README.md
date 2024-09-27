@@ -39,7 +39,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react)
-... _and other badges as per your preference_
 
 </div>
 
